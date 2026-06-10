@@ -39,7 +39,9 @@ Student-Management-System/
 └── README.md
 
 
-## How to Run
+---
+
+## 🚀 How to Run
 
 1. Download or clone the project.
 2. Open the project folder.
@@ -48,6 +50,7 @@ Student-Management-System/
 ```bash
 python main.py
 ```
+---
 
 ## Menu
 
