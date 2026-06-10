@@ -44,7 +44,7 @@ python main.py
 3. Search Student
 4. Exit
 
-## Author
+##  👩‍💻 Author
 
 Manshi Kumari
 
