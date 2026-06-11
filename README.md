@@ -37,9 +37,7 @@ Student-Management-System/
 ├── main.py
 ├── students.txt
 └── README.md
-
-
----
+```
 
 ## 🚀 How to Run
 
@@ -50,25 +48,29 @@ Student-Management-System/
 ```bash
 python main.py
 ```
----
 
-## Menu
+## ▶️ How to Run
+Bash
+python main.py
 
-1. Add Student
-2. View Students
-3. Search Student
-4. Exit
+## 📋 Menu Options
 
-##  👩‍💻 Author
+1.➕ Add Student
+2.📋 View Students
+3.🔍 Search Student
+4.🚪 Exit
 
+
+
+## 🚀 Future Enhancements
+
+✏️ Update Student Details
+❌ Delete Student Records
+📊 Calculate Average Marks
+🖥️ GUI Version using Tkinter
+
+
+## 👩‍💻 Author
 Manshi Kumari
-
-
-## Future Enhancements
-
-- Update Student Details
-- Delete Student Records
-- Calculate Average Marks
-- GUI Version using Tkinter
-
+Python Beginner Developer 💻
 
