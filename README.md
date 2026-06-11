@@ -49,10 +49,8 @@ Student-Management-System/
 python main.py
 ```
 
-## ▶️ How to Run
-Bash
-python main.py
 
+---
 ## 📋 Menu Options
 
 1.➕ Add Student
@@ -60,7 +58,7 @@ python main.py
 3.🔍 Search Student
 4.🚪 Exit
 
-
+---
 
 ## 🚀 Future Enhancements
 
@@ -68,9 +66,9 @@ python main.py
 ❌ Delete Student Records
 📊 Calculate Average Marks
 🖥️ GUI Version using Tkinter
-
+---
 
 ## 👩‍💻 Author
 Manshi Kumari
 Python Beginner Developer 💻
-
+---
