@@ -50,27 +50,27 @@ python main.py
 ```
 
 
----
+
 ## 📋 Menu Options
 
--1. ➕ Add Student
--2. 📋 View Students
--3. 🔍 Search Student
--4. 🚪 Exit
+1. ➕ Add Student
+2. 📋 View Students
+3. 🔍 Search Student
+4. 🚪 Exit
 
----
+
 
 
 ## 🚀 Future Enhancements
 
--✏️  Update Student Details
--❌  Delete Student Records
--📊  Calculate Average Marks
--🖥️  GUI Version using Tkinter
+- ✏️  Update Student Details
+- ❌  Delete Student Records
+- 📊  Calculate Average Marks
+- 🖥️  GUI Version using Tkinter
 
----
+
 
 ## 👩‍💻 Author
-Manshi Kumari
-Python Beginner Developer 💻
+- Manshi Kumari
+- Python Beginner Developer 💻
 
